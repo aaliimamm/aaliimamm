@@ -1,4 +1,6 @@
-## Hi! I'm Ali Imam **Full Stack Developer | PHP Enthusiast | Freelance Developer** 
+## Hi! I'm Ali Imam 
+
+**Full Stack Developer | PHP Enthusiast | Freelance Developer** 
 
 ### **Tech Stack** **Languages & Frameworks**
 
