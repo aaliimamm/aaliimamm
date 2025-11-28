@@ -6,6 +6,10 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px">
   <img
+    src="https://img.shields.io/badge/Laravel-E63946?style=for-the-badge&logo=laravel&logoColor=white"
+    height="35"
+  />
+  <img
     src="https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=next.js&logoColor=white"
     height="35"
   />
@@ -27,10 +31,6 @@
   />
   <img
     src="https://img.shields.io/badge/Express-333333?style=for-the-badge&logo=express&logoColor=white"
-    height="35"
-  />
-  <img
-    src="https://img.shields.io/badge/Laravel-E63946?style=for-the-badge&logo=laravel&logoColor=white"
     height="35"
   />
   <img
