@@ -1,45 +1,50 @@
-## Hi! I'm Ali Imam 
+## Hi! I'm Ali Imam 👋  
 
-## **Full Stack Developer | Web & Mobile Apps | PHP Enthusiast** 
+**Full Stack Developer | Web & Mobile Apps | PHP Enthusiast**  
 
-### **Tech Stack I Work On** 
+> I write code that actually works… most of the time 😎  
+
+---
+
+### ⚡ Tech Stack That Powers My Brain  
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px">
-  <img
-    src="https://img.shields.io/badge/Laravel-E63946?style=for-the-badge&logo=laravel&logoColor=white"
-    height="35"
-  />
-  <img
-    src="https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=next.js&logoColor=white"
-    height="35"
-  />
-  <img
-    src="https://img.shields.io/badge/Vue.js-41B883?style=for-the-badge&logo=vue.js&logoColor=white"
-    height="35"
-  />
-  <img
-    src="https://img.shields.io/badge/Flutter-0288D1?style=for-the-badge&logo=flutter&logoColor=white"
-    height="35"
-  />
-  <img
-    src="https://img.shields.io/badge/Alpine.js-0F172A?style=for-the-badge&logo=alpine.js&logoColor=white"
-    height="35"
-  />
-  <img
-    src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white"
-    height="35"
-  />
-  <img
-    src="https://img.shields.io/badge/Express-333333?style=for-the-badge&logo=express&logoColor=white"
-    height="35"
-  />
-  <img
-    src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"
-    height="35"
-  />
-  <img
-    src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"
-    height="35"
-  />
+  <img src="https://img.shields.io/badge/Laravel-E63946?style=for-the-badge&logo=laravel&logoColor=white" height="35" />
+  <img src="https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=next.js&logoColor=white" height="35" />
+  <img src="https://img.shields.io/badge/Vue.js-41B883?style=for-the-badge&logo=vue.js&logoColor=white" height="35" />
+  <img src="https://img.shields.io/badge/Flutter-0288D1?style=for-the-badge&logo=flutter&logoColor=white" height="35" />
+  <img src="https://img.shields.io/badge/Alpine.js-0F172A?style=for-the-badge&logo=alpine.js&logoColor=white" height="35" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" height="35" />
+  <img src="https://img.shields.io/badge/Express-333333?style=for-the-badge&logo=express&logoColor=white" height="35" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" height="35" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="35" />
 </div>
 
+---
+
+### 🤔 Fun Facts About Me  
+
+- I speak fluent **PHP** and semi-fluent sarcasm.  
+- I have a love-hate relationship with **JavaScript**.  
+- My code sometimes writes itself… just kidding, that’s called Stack Overflow.  
+- I dream in **Laravel routes** and **Flutter widgets**.  
+
+---
+
+### 💻 Currently Cooking  
+
+- A full-stack app that solves **problems people didn’t know they had**.  
+- Learning more **Next.js tricks** to feel like a wizard.  
+- Attempting to make **Docker behave nicely**. Pray for me. 🙏  
+
+---
+
+### 📫 How to Find Me  
+
+- [Website](https://aaliimamm.com/)
+- [LinkedIn](https://www.linkedin.com/in/aaliimamm/)  
+- [Email](mailto:contact@aaliimamm.com)
+
+---
+
+> “Keep calm and code on… until something breaks.” 😅
