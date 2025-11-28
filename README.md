@@ -2,7 +2,7 @@
 
 ## **Full Stack Developer | PHP Enthusiast | Freelance Developer** 
 
-### **Tech Stack** **Languages & Frameworks**
+### **Tech Stack I Work On** 
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px">
   <img
