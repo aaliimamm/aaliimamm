@@ -1,6 +1,4 @@
-## Hi! I'm Ali Imam 👋  
-
-**Full Stack Developer | Web & Mobile Apps | PHP Enthusiast**  
+## **Full Stack Developer | Web & Mobile Apps | PHP Enthusiast**  
 
 > I write code that actually works… most of the time 😎  
 
