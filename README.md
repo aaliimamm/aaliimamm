@@ -26,7 +26,7 @@
 
 ### ✨ Fun Facts About Me  
 
-- I speak fluent **PHP**. The kind where I can take a broken codebase, decode the chaos, and make it behave like it should’ve from day one.
+- I speak fluent **PHP**. I can take a broken codebase, decode the chaos, and make it behave like it should’ve from day one.
 - I have a love-hate relationship with **JavaScript**.  
 - My code sometimes writes itself… just kidding, that’s called ChatGPT.  
 - I dream in **Laravel routes** and **Flutter widgets**.  
