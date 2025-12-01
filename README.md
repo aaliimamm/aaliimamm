@@ -1,6 +1,6 @@
 ## **Full Stack Developer | DevOps | Founder | Laravel Specialist**
 
->Hi there! Great to see you here. I build modern web and mobile applications, primarily using Next.js. I specialize in turning SaaS ideas into apps that people actually use.
+>Hi there! Great to see you here. I build modern web and mobile applications for living, primarily using Laravel & Vue. I also specialized in turning SaaS ideas into apps that people actually use.
 
 <br/>
 
