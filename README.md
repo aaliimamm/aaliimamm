@@ -4,6 +4,8 @@
 
 <br/>
 
+**Current Tech Stack**
+
 <div style="display: flex; flex-wrap: wrap; gap: 10px"> 
   <img src="https://img.shields.io/badge/Laravel-E63946?style=for-the-badge&logo=laravel&logoColor=white" height="35" /> 
   <img src="https://img.shields.io/badge/Vue.js-41B883?style=for-the-badge&logo=vue.js&logoColor=white" height="35" />
